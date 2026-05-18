@@ -4,7 +4,7 @@
 
 ---
 
-### 💊 JanAushadhi Finder
+# 💊 JanAushadhi Finder
 
 A healthcare-based Android application developed to help users locate nearby **Jan Aushadhi Kendras** and search affordable generic medicines available under the **Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)** initiative.
 
