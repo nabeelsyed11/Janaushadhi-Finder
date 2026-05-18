@@ -89,7 +89,7 @@ This project provides a digital solution to:
 
 Add application screenshots here:
 
-| Home Search Screen | Store Search | Stats Viewer |
+| Home Search Screen | Store Search Screen | Stats Viewer Screen |
 |------------|----------------|----------------|
 |<img src="Screenshots/Home.jpeg" width="220"/>|<img src="Screenshots/Locate.jpeg" width="220"/>|<img src="Screenshots/Stats.jpeg" width="220"/>|
 
