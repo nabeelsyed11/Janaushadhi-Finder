@@ -91,15 +91,7 @@ Add application screenshots here:
 
 | Home Screen | Medicine Search | Center Locator |
 |------------|----------------|----------------|
-|Screenshots/Home.jpeg|Screenshots/Locate.jpeg|Screenshots/Stats.jpeg|
-
-Example:
-
-```md
-![Home](Screenshots/Home.jpeg)
-![Search](Screenshots/Locate.jpeg)
-![Stats](Screenshots/Stats.jpeg)
-```
+|<img src="Screenshots/Home.jpeg" width="220"/>|<img src="Screenshots/Locate.jpeg" width="220"/>|<img src="Screenshots/Stats.jpeg" width="220"/>|
 
 ---
 
