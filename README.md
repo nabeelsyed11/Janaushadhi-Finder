@@ -133,7 +133,7 @@ Gradle Sync → Run App
 
 **Mr. Syed Nabeel Ahmed**
 
-[GitHub] (https://github.com/nabeelsyed11)
+[![GitHub] (https://github.com/nabeelsyed11)]
 
 ---
 
