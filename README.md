@@ -120,7 +120,6 @@ Gradle Sync → Run App
 ## 🔮 Future Enhancements
 
 - Medicine availability tracking
-- User login system
 - Medicine recommendation engine
 - GPS optimization
 - Notification support
