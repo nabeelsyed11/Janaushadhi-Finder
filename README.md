@@ -149,7 +149,7 @@ GitHub: https://github.com/nabeelsyed11
 
 ## 📥 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/nabeelsyed11/Janaushadhi-Finder/releases/download/v1.0/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/nabeelsyed11/Janaushadhi-Finder/releases/download/v1.0/JanAushadhi-Finder.apk)
 
 ---
 
