@@ -89,7 +89,7 @@ This project provides a digital solution to:
 
 Add application screenshots here:
 
-| Home Screen | Medicine Search | Center Locator |
+| Home Search Screen | Store Search | Stats Viewer |
 |------------|----------------|----------------|
 |<img src="Screenshots/Home.jpeg" width="220"/>|<img src="Screenshots/Locate.jpeg" width="220"/>|<img src="Screenshots/Stats.jpeg" width="220"/>|
 
