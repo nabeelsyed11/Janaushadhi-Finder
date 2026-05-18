@@ -1,0 +1,12 @@
+{
+  "name": "Jan-Aushadhi Finder",
+  "description": "A healthcare savings tool to find nearest Jan-Aushadhi stores and translate branded medicines to generic equivalents with price comparisons.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI-powered medicine translation",
+    "Fuzzy search for healthcare products",
+    "Real-time savings calculation"
+  ]
+}

@@ -1,0 +1,42 @@
+/**
+ * Defines the structure of the FirebaseBlueprint configuration.
+ */
+{
+  "entities": {
+    "Reminder": {
+      "title": "Reminder",
+      "description": "User's medicine refill reminders",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "medicineName": { "type": "string" },
+        "dosage": { "type": "string" },
+        "frequency": { "type": "string" },
+        "startDate": { "type": "string", "format": "date-time" },
+        "nextRefillDate": { "type": "string", "format": "date-time" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "medicineName", "nextRefillDate"]
+    },
+    "AppSetting": {
+      "title": "AppSetting",
+      "description": "User preferences",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "notificationEnabled": { "type": "boolean" },
+        "favoriteStores": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  },
+  "firestore": {
+    "reminders/{reminderId}": {
+      "schema": "Reminder",
+      "description": "Collection of user reminders"
+    },
+    "settings/{userId}": {
+      "schema": "AppSetting",
+      "description": "User specific settings"
+    }
+  }
+}
