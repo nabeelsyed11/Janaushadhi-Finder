@@ -1,20 +1,154 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<p align="center">
+<img width="900" height="300" src="YOUR_BANNER_IMAGE_LINK">
+</p>
+# 💊 JanAushadhi Finder
 
-# Run and deploy your AI Studio app
+A healthcare-based Android application developed to help users locate nearby **Jan Aushadhi Kendras** and search affordable generic medicines available under the **Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)** initiative.
 
-This contains everything you need to run your app locally.
+The application aims to improve accessibility to low-cost medicines and provide users with quick information about medicine availability and center locations.
 
-View your app in AI Studio: https://ai.studio/apps/22a5906a-e28a-4ea8-8819-a18e882458ca
+---
 
-## Run Locally
+## 📱 Features
 
-**Prerequisites:**  Node.js
+✅ Search nearby Jan Aushadhi centers  
+✅ Medicine search functionality  
+✅ View medicine details and availability  
+✅ User-friendly Android interface  
+✅ Healthcare support application  
+✅ Easy navigation between modules  
+✅ Real-time location assistance *(if enabled)*
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Technologies Used
+
+- Android Studio
+- Java / Kotlin *(Update according to your project)*
+- XML
+- Google Maps API
+- Firebase *(if used)*
+- Android SDK
+- Gradle
+
+---
+
+## 📂 Project Structure
+
+```bash
+Janaushadhi-Finder/
+│── app/
+│── gradle/
+│── assets/
+│── res/
+│── AndroidManifest.xml
+│── build.gradle
+│── README.md
+```
+
+---
+
+## 🚀 Application Workflow
+
+1. User opens application  
+2. Search medicine name  
+3. Application retrieves medicine details  
+4. Locate nearby Jan Aushadhi centers  
+5. Display center information and availability  
+6. User navigates to selected center
+
+---
+
+## 🏥 Problem Statement
+
+Many people struggle to find affordable medicines and nearby Jan Aushadhi centers. Existing methods require manual searching and consume time.
+
+This project provides a digital solution to:
+
+- Improve medicine accessibility
+- Reduce search time
+- Promote affordable healthcare
+- Support PMBJP initiative
+
+---
+
+## 🎯 Objectives
+
+- Help users locate Jan Aushadhi centers
+- Provide medicine search capability
+- Increase awareness of generic medicines
+- Improve healthcare accessibility
+- Create a simple and efficient mobile solution
+
+---
+
+## 📸 Screenshots
+
+Add application screenshots here:
+
+| Home Screen | Medicine Search | Center Locator |
+|------------|----------------|----------------|
+| Image | Image | Image |
+
+Example:
+
+```md
+![Home](images/home.png)
+![Search](images/search.png)
+![Locator](images/location.png)
+```
+
+---
+
+## ⚙️ Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/nabeelsyed11/Janaushadhi-Finder.git
+```
+
+Open project in Android Studio:
+
+```bash
+File → Open → Select Project Folder
+```
+
+Build project:
+
+```bash
+Gradle Sync → Run App
+```
+
+---
+
+## 🔮 Future Enhancements
+
+- Medicine availability tracking
+- User login system
+- Medicine recommendation engine
+- GPS optimization
+- Notification support
+- Online appointment integration
+- Healthcare analytics dashboard
+
+---
+
+## 👨‍💻 Developer
+
+**Mr. Syed Nabeel Ahmed**
+
+GitHub: https://github.com/nabeelsyed11
+
+---
+![Android](https://img.shields.io/badge/Platform-Android-green)
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Status](https://img.shields.io/badge/Project-Completed-blue)
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-red)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
+
+## 📄 License
+
+This project is developed for educational and internship purposes.
+
+MIT License
