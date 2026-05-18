@@ -91,14 +91,14 @@ Add application screenshots here:
 
 | Home Screen | Medicine Search | Center Locator |
 |------------|----------------|----------------|
-| Image | Image | Image |
+|Screenshots/Home.jpeg|Screenshots/Locate.jpeg|Screenshots/Stats.jpeg|
 
 Example:
 
 ```md
-![Home](images/home.png)
-![Search](images/search.png)
-![Locator](images/location.png)
+![Home](Screenshots/Home.jpeg)
+![Search](Screenshots/Locate.jpeg)
+![Stats](Screenshots/Stats.jpeg)
 ```
 
 ---
