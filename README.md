@@ -131,7 +131,9 @@ Gradle Sync → Run App
 
 ## 👨‍💻 Developer
 
+<p align="center">
 **Mr. Syed Nabeel Ahmed**
+</p>
 
 <p align="center">
 <a href="https://github.com/nabeelsyed11">
