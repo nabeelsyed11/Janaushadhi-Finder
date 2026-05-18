@@ -131,15 +131,9 @@ Gradle Sync → Run App
 
 ## 👨‍💻 Developer
 
-<p align="center">
 **Mr. Syed Nabeel Ahmed**
-</p>
 
-<p align="center">
-<a href="https://github.com/nabeelsyed11">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-nabeelsyed11-black?style=for-the-badge&logo=github)](https://github.com/nabeelsyed11)
 
 ---
 
