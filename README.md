@@ -1,5 +1,5 @@
 <p align="center">
-<img width="900" height="300" src="https://images.unsplash.com/photo-1587854692152-cbe660dbde88?fit=crop&w=1200&q=80">
+<img width="900" height="300" src="https://images.unsplash.com/photo-1585435557343-3b092031a831?fit=crop&w=1200&q=80">
 </p>
 # 💊 JanAushadhi Finder
 
